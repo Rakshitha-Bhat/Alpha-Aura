@@ -1,6 +1,6 @@
 # Alpha-Aura
 Our k! hacks project
-Oil Spill Detection Using AI 🌊🚨
+Oil Spill Detection Using AI 🌊🚨<br>
 Overview
 This project aims to develop an AI-powered solution for real-time oil spill detection in marine environments. Using cutting-edge machine learning techniques, the system processes satellite imagery to identify and alert relevant authorities about potential oil spills, ensuring quick responses to environmental disasters. 🌍
 
